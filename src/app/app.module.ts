@@ -17,7 +17,7 @@ import { CoronavirusComponent } from './coronavirus/coronavirus.component';
     CoronavirusComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule.withServerTransition({ appId: 'serverApp' }),
     AppRoutingModule
   ],
   providers: [],
