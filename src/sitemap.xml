@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://angular.io/tutorial</loc><priority>0.5</priority></url>
-<url><loc>https://angular.io/cli</loc><priority>0.5</priority></url>
-<url><loc>https://arvind-collabera.github.io/angular-static/mr-robot</loc><priority>0.5</priority></url>
-<url><loc>https://arvind-collabera.github.io/angular-static/money-heist</loc><priority>0.5</priority></url>
-<url><loc>https://arvind-collabera.github.io/angular-static/roman-empire</loc><priority>0.5</priority></url>
-<url><loc>https://arvind-collabera.github.io/angular-static/coronavirus</loc><priority>0.5</priority></url>
+<url><loc>http://client-side3.s3-website-ap-southeast-1.amazonaws.com/mr-robot</loc><priority>0.5</priority></url>
+<url><loc>http://client-side3.s3-website-ap-southeast-1.amazonaws.com/money-heist</loc><priority>0.5</priority></url>
+<url><loc>http://client-side3.s3-website-ap-southeast-1.amazonaws.com/roman-empire</loc><priority>0.5</priority></url>
+<url><loc>http://client-side3.s3-website-ap-southeast-1.amazonaws.com/coronavirus</loc><priority>0.5</priority></url>
 </urlset>
